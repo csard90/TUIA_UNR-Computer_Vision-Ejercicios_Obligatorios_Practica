@@ -1,5 +1,7 @@
-# TUIA_UNR-Computer_Vision-Ejercicios_Obligatorios_Practica
-## Alumno: Cesar Julian Donnarumma.
-## Año: 2024.f
-### Descripcion:
-A este repositorio se subiran los ejercicios obligatorios de la practica de la materia Computer Vision de la Tecnicatura en Inteligencia Artificial de la UNR.
+Fecha: 03/2024
+
+# Ejercicios Obligatorios de Práctica - Computer Vision - Tecnicatura Universitária en Inteligencia Artifical (UNR)
+
+## Alumno: 
+
+* DONNARUMMA, César Julián.
